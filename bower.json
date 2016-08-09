@@ -1,6 +1,6 @@
 {
   "name": "purescript-react",
-  "homepage": "https://github.com/purescript-contrib/purescript-react",
+  "homepage": "https://github.com/atomicits/purescript-atomic-react",
   "description": "PureScript bindings for react",
   "main": "",
   "keywords": [
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/purescript-contrib/purescript-react.git"
+    "url": "git://github.com/atomicits/purescript-atomic-react.git"
   },
   "dependencies": {
     "purescript-eff": "^1.0.0",
